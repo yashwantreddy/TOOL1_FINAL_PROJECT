@@ -11,6 +11,8 @@ The main Jupyter notebook is **"Analysis of TED Talks using NLP.ipynb"**.
 
 This repo does contain any data. The collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been forked from [here](https://github.com/saranyan/TED-Talks).
 
+However, the pickled pandas Dataframes are hosted on this repo as **ted.pkl** and **ted_ed.pkl**.
+
 ## Natural Language Processing
 
 There are limitless number of things one could achieve with NLP. I will attempt to perform the following:
