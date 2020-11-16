@@ -38,11 +38,11 @@ We will take a look at the distribution of n-grams throughout the transcripts of
 
 ## Topic Modeling using TFIDF and NMF
 
-Given the diverse selection of TED talks to watch/read, is it possible to generalize into really simple categories?
+Given the diverse selection of TED talks to watch/read, is it possible to generalize into simple categories?
 
 ![image](images/topic_modeling.png)
 
-My Topic Modeling model (NMF) seems to derive these topics.
+My Topic Modeling model (NMF) seems to derive these topics. We can notice that **Topic 11** talks about universe, stars and galaxies, **Topic 14** is about robotics, **Topic 2** is about listening and sound while **Topic 3** is regarding songs and music.
 
 ## Next Steps
 
