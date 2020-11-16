@@ -3,13 +3,15 @@ Final Project submission for COMP 4447 at University of Denver Online Data Scien
 
 # Analysis of TED Talks using NLP
 
+For my COMP 4447 Final Project, I will be using Natural Language Processing to analyze and interpret the contents of TED talks. My analysis will include understanding why stopwords are crucial for preprocessing, visualizing the word distributions including the most frequently spoken words using word clouds, , n-grams and Topic Modeling using TFIDF (Term Frequency Inverse Document Frequency) and NMF (Non-negative Matrix Factorization).
+
 ## Data
 
-This repo contains a collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been forked from [here] (https://github.com/saranyan/TED-Talks).
+This repo does contain any data. The collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been forked from [here](https://github.com/saranyan/TED-Talks).
 
 ## Natural Language Processing
 
-There are limitless number of things one could achieve with Natural Language Processing. I will be attempting to perform the following:
+There are limitless number of things one could achieve with NLP. I will attempt to perform the following:
 * Word Cloud generation
 * n-grams analysis
 * Topic Modeling using TFIDF and NMF
