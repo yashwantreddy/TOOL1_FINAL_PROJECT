@@ -1,9 +1,11 @@
 # TOOL1_FINAL_PROJECT
-Final Project submission for COMP 4447 at University of Denver Online Data Science Masters Program
+Final Project submission for COMP 4447 at University of Denver Online Data Science Masters Program. 
 
 # Analysis of TED Talks using NLP
 
 For my COMP 4447 Final Project, I will be using Natural Language Processing to analyze and interpret the contents of TED talks. My analysis will include understanding why stopwords are crucial for preprocessing, visualizing the word distributions including the most frequently spoken words using word clouds, , n-grams and Topic Modeling using TFIDF (Term Frequency Inverse Document Frequency) and NMF (Non-negative Matrix Factorization).
+
+The main Jupyter notebook is **"Analysis of TED Talks using NLP.ipynb"**.
 
 ## Data
 
