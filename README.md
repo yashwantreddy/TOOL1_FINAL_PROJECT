@@ -42,7 +42,7 @@ Given the diverse selection of TED talks to watch/read, is it possible to genera
 
 ![image](images/topic_modeling.png)
 
-My Topic Modeling model (NMF) seems to derive these topics. We can notice that **Topic 11** talks about universe, stars and galaxies, **Topic 14** is about robotics, **Topic 2** is about listening and sound while **Topic 3** is regarding songs and music.
+My Topic Modeling model (NMF) seems to derive these topics. We can notice that **Topic 11** talks about universe, stars and galaxies, **Topic 13** is about robotics, **Topic 2** is about listening and sound while **Topic 3** is regarding songs and music.
 
 ## Next Steps
 
